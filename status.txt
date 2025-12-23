@@ -1,2 +1,3 @@
-ON|Server đang an toàn, bạn có thể chơi bình thường.
+off|Server đang an toàn, bạn có thể chơi bình thường.
+
 
